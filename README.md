@@ -1,16 +1,16 @@
-## Hi there 👋
+# Greetings 🖖
 
-<!--
-**connor1989-go/connor1989-go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **connor1989-go**, a hobbyist coder.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌟 Open source enthusiast
+- 📚 Reading the source is the best documentation
+
+## Tech
+
+`Express` `Elasticsearch` `Emacs` `Spring` `Axum`
+
+---
+
+_Lo-fi enthusiast._
